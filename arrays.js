@@ -1,3 +1,7 @@
 var chocolateBars =["snickers", "hundred grand", "kitkat", "skittles"];
 
-addElementToBeginningOfArray
+var a = ["how","are","you"]
+var e = ["Hello"]
+function addElementToBeginningOfArray(a,e){
+
+}
